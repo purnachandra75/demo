@@ -19,5 +19,7 @@ public class ExamController {
 	    public String getStudentByExam() {
 	        return studentClient.getStudents();
 	    }
+	    
+	    
 
 }
